@@ -15,5 +15,9 @@ class ViewController: UIViewController {
     }
 
 
+    func firstMethod() {
+        print("make some code here")
+    }
+    
 }
 
