@@ -13,6 +13,7 @@
 		222E263F2A4E826500AB264C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 222E263D2A4E826500AB264C /* Main.storyboard */; };
 		222E26412A4E826600AB264C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 222E26402A4E826600AB264C /* Assets.xcassets */; };
 		222E26442A4E826600AB264C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 222E26422A4E826600AB264C /* LaunchScreen.storyboard */; };
+		222E264C2A4EB01C00AB264C /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222E264B2A4EB01C00AB264C /* UserModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		222E26402A4E826600AB264C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		222E26432A4E826600AB264C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		222E26452A4E826600AB264C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		222E264B2A4EB01C00AB264C /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				222E26372A4E826500AB264C /* AppDelegate.swift */,
 				222E26392A4E826500AB264C /* SceneDelegate.swift */,
 				222E263B2A4E826500AB264C /* ViewController.swift */,
+				222E264B2A4EB01C00AB264C /* UserModel.swift */,
 				222E263D2A4E826500AB264C /* Main.storyboard */,
 				222E26402A4E826600AB264C /* Assets.xcassets */,
 				222E26422A4E826600AB264C /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				222E263C2A4E826500AB264C /* ViewController.swift in Sources */,
 				222E26382A4E826500AB264C /* AppDelegate.swift in Sources */,
+				222E264C2A4EB01C00AB264C /* UserModel.swift in Sources */,
 				222E263A2A4E826500AB264C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
